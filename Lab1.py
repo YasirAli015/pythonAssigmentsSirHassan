@@ -1,4 +1,6 @@
-import numpy as np
-a_yasir=[1,4,5,3,6,4,7]
-mean=np.mean(a_yasir)
-print(mean)
+yasir_color = 'green'
+
+if yasir_color == 'green':
+    print("You just earned 5 points!")
+else:
+    print("You just earned 10 points!")
